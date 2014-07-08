@@ -1,0 +1,7 @@
+
+- bayad file haro dakhel webserver upload konim
+
+sepas yek database ejad konim va file sql mojod be esm "sama.sql"
+ro dar data basemon import konim
+
+sepas etelat marbot be database ro dar file db.php vared konim

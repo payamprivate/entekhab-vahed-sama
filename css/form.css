@@ -1,0 +1,86 @@
+.errors{
+	background:#FBE1CE;
+	box-shadow:inset 0 0 10px #F49A40;
+	-moz-box-shadow:inset 0 0 10px #F49A40;
+	-webkit-box-shadow:inset 0 0 10px #F49A40;
+	border:1px solid #F49A40;
+	color:#F30;
+	padding:10px;
+}
+.errors ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+.errors ul li{
+	border:none;
+	padding:0;
+}
+.errors ul li span{
+	font-weight:bold;
+}
+._form table label{
+	display:block;
+	line-height:20px;
+}
+._form table{
+	background:#09F;
+	box-shadow:0 0 4px #09F;
+}
+._form th{
+	background:#C0E1FA;
+	box-shadow:inset 0 0 5px #0CF;
+	text-align:right;
+}
+._form td{
+	background:#EEE;
+	box-shadow:inset 0 0 10px #CCC;
+}
+._form td span.error{
+	color:#F30;
+	background:url(images/error.png) no-repeat right;
+	line-height:20px;
+	display:inline-block;
+	padding-right:20px;
+	margin-right:10px;
+}
+._form td.buttons{
+	text-align:center;
+}
+._form td div{
+	color:#666;
+	line-height:16px;
+}
+
+
+._form table{
+	background:none;
+	box-shadow:none;
+	text-shadow:none;
+	font:11px Tahoma;
+}
+._form th, ._form td{
+	padding:5px;
+}
+._form th{
+	background:#DDD;
+	box-shadow:inset 0 0 5px #999;
+	-moz-box-shadow:inset 0 0 5px #999;
+	-webkit-box-shadow:inset 0 0 5px #999;
+}
+._form td{
+	background:#EFEFEF;
+	box-shadow:inset 0 0 10px #CCC;
+	-moz-box-shadow:inset 0 0 10px #CCC;
+	-webkit-box-shadow:inset 0 0 10px #CCC;
+}
+._form .nobg{
+	background:none;
+	box-shadow:none;
+	-moz-box-shadow:none;
+	-webkit-box-shadow:none;
+}
+
+.ckeditor{
+	font:11px Tahoma;
+}
